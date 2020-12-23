@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T00:28:26.500Z" agent="5.0 (Windows)" etag="fZhbqwMyb5kvzAgjVWav" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T03:50:28.400Z" agent="5.0 (Windows)" etag="n6Xa0mgXchN8r-S9XQ0b" version="14.1.1" type="github">
   <diagram id="2YvreJeh8l0_RDM7dKbb" name="Page-1">
     <mxGraphModel dx="981" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -23,10 +23,22 @@
           <mxGeometry width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-4jELO1UqiFYyA_AXrD-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="u-4jELO1UqiFYyA_AXrD-8" vertex="1">
-          <mxGeometry y="120" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry y="130" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-4jELO1UqiFYyA_AXrD-4" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="u-4jELO1UqiFYyA_AXrD-8" vertex="1">
           <mxGeometry y="260" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kp106gofogJ2CGGmryP0-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="u-4jELO1UqiFYyA_AXrD-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="127" as="sourcePoint" />
+            <mxPoint x="10" y="57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kp106gofogJ2CGGmryP0-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="u-4jELO1UqiFYyA_AXrD-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.000000000000025" y="249.0000000000001" as="sourcePoint" />
+            <mxPoint x="10.000000000000025" y="179.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u-4jELO1UqiFYyA_AXrD-9" value="Worker Nodes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="324" y="240" width="120" height="20" as="geometry" />
